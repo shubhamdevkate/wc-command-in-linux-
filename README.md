@@ -1,1 +1,0 @@
-# wc-command-in-linux-
